@@ -35,3 +35,6 @@ https://docs.djangoproject.com/en/1.7/intro/tutorial01/
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
+
+#Blog username
+blogauth
